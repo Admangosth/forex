@@ -1,0 +1,16 @@
+# Ignorar el entorno virtual
+venv/
+env/
+
+# Ignorar archivos de compilación
+*.pyc
+*.pyo
+
+# Ignorar bases de datos
+db.sqlite3
+
+# Ignorar archivos de configuración sensibles
+.env
+
+# Ignorar directorios de log
+*.log
